@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Author ID: myseneca
+# Author ID: spaudel11
 
 def read_file_string(file_name):
     
